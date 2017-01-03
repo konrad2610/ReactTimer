@@ -19,7 +19,7 @@ var Nav = React.createClass({
         <div className='top-bar-right'>
           <ul className='menu'>
             <li className='menu-text'>
-              Created by <a href='//interia.pl' target='_blank'>Konree</a>
+              Created by <a href='https://github.com/konrad2610/ReactTimer' target='_blank'>Konree</a>
             </li>
           </ul>
         </div>
